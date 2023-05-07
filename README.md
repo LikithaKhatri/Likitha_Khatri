@@ -10,9 +10,9 @@ Hello there! I am a Computer Science student with a strong inclination towards a
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/likithakhatri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likitha khatri" height="30" width="40" /></a>
-<a href="https://instagram.com/_gemoacme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gemoacme" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/likithakhatri2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/likithakhatri2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://github.com/likithakhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://github.com/likithakhatri" height="30" width="40" /></a>
+<a href="https://www.instagram.com/likitha_khatri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gemoacme" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/LikithaKhatri?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/likithakhatri2" height="30" width="40" /></a>
+<a href="https://leetcode.com/LikithaKhatri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://github.com/likithakhatri" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">🧰 Languages and Tools</h2>
